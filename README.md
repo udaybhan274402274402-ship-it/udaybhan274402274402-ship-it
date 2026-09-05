@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at Buddha Institute of Technology (2023 - 2027)[span_0](start_span)[span_0](end_span)
-- 📊 Passionate about Data Science, Machine Learning, and Full Stack Web Development[span_1](start_span)[span_1](end_span)
-- 💡 Interested in solving real-world business problems through data analysis and technology[span_2](start_span)[span_2](end_span)
-- 🏏 Tech enthusiast who loves cricket, continuous learning, and exploring new innovations[span_3](start_span)[span_3](end_span)
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at Buddha Institute of Technology (2023 - 2027)
+- 📊 Passionate about Data Science, Machine Learning, and Full Stack Web Development.
+- 💡 Interested in solving real-world business problems through data analysis and technology.
+- 🏏 Tech enthusiast who loves cricket, continuous learning, and exploring new innovations.
 
 ---
 
@@ -36,19 +36,19 @@
 ### 🌟 Featured Projects
 
 - 🏥 **Smart Healthcare Finder**  
-  Web application to quickly locate nearby healthcare facilities and doctors with location and specialty-based search[span_4](start_span)[span_4](end_span).
+  Web application to quickly locate nearby healthcare facilities and doctors with location and specialty-based search.
 
 - 🎬 **Movie Recommendation System**  
-  Recommendation engine built using data analysis and similarity-based filtering for personalized movie suggestions[span_5](start_span)[span_5](end_span).
+  Recommendation engine built using data analysis and similarity-based filtering for personalized movie suggestions.
 
 - 🌐 **Personal Portfolio Website**  
-  Responsive personal portfolio using HTML, CSS, and JavaScript to showcase projects and technical skills[span_6](start_span)[span_6](end_span).
+  Responsive personal portfolio using HTML, CSS, and JavaScript to showcase projects and technical skills.
 
 ---
 
 ### 💼 Internships
-- **Data Science Intern** — *Code Alpha*[span_7](start_span)[span_7](end_span)
-- **Data Science Intern** — *TechnoHack*[span_8](start_span)[span_8](end_span)
+- **Data Science Intern** — *Code Alpha*
+- **Data Science Intern** — *TechnoHack*
 
 ---
 
