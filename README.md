@@ -1,4 +1,4 @@
-# Hi 👋, I'm Udaybhan Patel <img width="100" align="right style="border-radius alt="WhatsApp Image 2026-08-17 at 2 40 58 PM" src="https://github.com/user-attachments/assets/f8e7b26a-1c6f-4fc9-ac12-2cd9807b343a" />
+# Hi 👋, I'm Udaybhan Patel <img width="120" hight="120" align="right style="border-radius: 50%; alt="WhatsApp Image 2026-08-17 at 2 40 58 PM" src="https://github.com/user-attachments/assets/f8e7b26a-1c6f-4fc9-ac12-2cd9807b343a" />
 
 
 ### 🎓 B.Tech CSE (Data Science) | Aspiring Data Scientist & Developer
