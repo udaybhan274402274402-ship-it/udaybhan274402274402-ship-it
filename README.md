@@ -1,11 +1,13 @@
-# Hi 👋, I'm Udaybhan Patel
+# Hi 👋, I'm Udaybhan Patel <img width="1080" height="1225" alt="WhatsApp Image 2026-08-17 at 2 40 58 PM" src="https://github.com/user-attachments/assets/f8e7b26a-1c6f-4fc9-ac12-2cd9807b343a" />
+
 
 ### 🎓 B.Tech CSE (Data Science) | Aspiring Data Scientist & Developer
 
 ---
 
 ### 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at Buddha Institute of Technology (2023 - 2027)
+- 🎓 Pursuing B.Tech in Computer Science & Engineering at Buddha Institute of Technology (2023 - 2027)![Uploading WhatsApp Image 2026-08-17 at 2.40.58 PM.jpeg…]()
+
 - 📊 Passionate about Data Science, Machine Learning, and Full Stack Web Development
 - 💡 Interested in solving real-world business problems through data analysis and technology
 - 🏏 Tech enthusiast who loves cricket, continuous learning, and exploring new innovations
